@@ -23,7 +23,7 @@ The all new official Crystal Linux to-do list for contributors.
 <h2> IN PROGRESS</h2><br>
 
 <h2> GENERAL</h2>
-- Update github <a href="https://github.com/crystal-linux/iso">ISO</a> action to generatre checksums.<br>
+- Update github <a href="https://github.com/crystal-linux/iso">ISO</a> action to generate checksums.<br>
 - Fix up clapv3 branch of malachite<br>
 - Begin drafting the first boot app (again)<br>
 - Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
