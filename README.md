@@ -28,6 +28,6 @@ The all new official Crystal Linux to-do list for contributors.
 - Begin drafting the first boot app (again)<br>
 - Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
 - Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop envioronment based on Bugdie)<br>
-- Add <p><code>made with ❤️ by :crystal:</code></p> to apps<br>
+- Add `made with ❤️ by :crystal:` to apps
 
 <h2> NICE TO HAVE</h2><br>
