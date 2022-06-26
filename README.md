@@ -21,6 +21,7 @@ The all new official Crystal Linux to-do list for contributors.
 <h2> URGENT</h2>
 <ul>
 <li> <b> FORCE JASIO TO MAKE MOCKUPS DO NOT LISTEN TO HER EXCUSES</b>
+<li> Fix the screen locking on the iso
 </ul>
 <h2> IN PROGRESS</h2>
 <ul>
@@ -30,12 +31,12 @@ The all new official Crystal Linux to-do list for contributors.
 <ul>
 <li>Update github <a href="https://github.com/crystal-linux/iso">ISO</a> action to generate checksums<br>
 <li> Fix up clapv3 branch of <a href="https://github.com/crystal-linux/malachite">malachite</a><br>
-<li> Begin drafting the first boot app (again)<br>
+<li> Begin drafting the first boot app (<a href="https://github.com/crystal-linux/moonstone">moonstone</a>) <br>
 <li> Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
 <li> Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop environment based on Budgie)<br>
 <li> Add `made with ❤️ by :crystal:` to apps
 <li> Make a TUI for <a href="https://github.com/crystal-linux/jade">jade</a>
-</ul>
+<li> Add a Crystal theme option to <a href="https://github.com/crystal-linux/jade">jade</a> and <a href="https://github.com/crystal-linux/moonstone">moonstone</a>
 
 <h2> NICE TO HAVE</h2>
 <ul>
