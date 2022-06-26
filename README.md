@@ -34,7 +34,7 @@ The all new official Crystal Linux to-do list for contributors.
 <li> Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
 <li> Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop environment based on Budgie)<br>
 <li> Add `made with ❤️ by :crystal:` to apps
-<li> Make a TUI for jade
+<li> Make a TUI for <a href="https://github.com/crystal-linux/jade">jade</a>
 </ul>
 
 <h2> NICE TO HAVE</h2>
