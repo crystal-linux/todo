@@ -20,7 +20,7 @@ The all new official Crystal Linux to-do list for contributors.
 
 <h2> URGENT</h2>
 <ul>
-<li>
+<li> <b> FORCE JASIO TO MAKE MOCKUPS DO NOT LISTEN TO HER EXCUSES</b>
 </ul>
 <h2> IN PROGRESS</h2>
 <ul>
@@ -34,6 +34,7 @@ The all new official Crystal Linux to-do list for contributors.
 <li> Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
 <li> Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop envioronment based on Bugdie)<br>
 <li> Add `made with ❤️ by :crystal:` to apps
+<li> Make a TUI for jade
 </ul>
 
 <h2> NICE TO HAVE</h2>
