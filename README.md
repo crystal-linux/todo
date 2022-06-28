@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/crystal-linux/todo/">
-    <img src="https://github.com/crystal-linux/branding/blob/main/icons/crystal-logo-minimal-todo.png?raw=true" alt="Logo" width="150" height="150">
+    <img src="hhttps://getcryst.al/site/assets/other/logo.png" alt="Logo" width="150" height="150">
   </a>
 </p>
 
