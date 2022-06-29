@@ -46,5 +46,5 @@ The all new official Crystal Linux to-do list for contributors.
 
 <h2> NICE TO HAVE</h2>
 <ul>
-<li>
+<li>A recovery partition
 </ul>
