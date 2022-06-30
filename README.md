@@ -42,5 +42,6 @@ The all new official Crystal Linux to-do list for contributors.
 
 <h2> NICE TO HAVE</h2>
 <ul>
-<li>A recovery partition
+<li> A recovery partition<br>
+<li> Unit tests for all Rust tools
 </ul>
