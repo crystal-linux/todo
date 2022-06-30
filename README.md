@@ -37,7 +37,6 @@ The all new official Crystal Linux to-do list for contributors.
 <li> Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop environment based on Budgie)<br>
 <li> Add <code>made with ❤️ by crystal</code> to apps
 <li> Make a TUI for <a href="https://github.com/crystal-linux/jade">jade</a>
-<li> Add a Crystal theme option to <a href="https://github.com/crystal-linux/jade">jade</a> and <a href="https://github.com/crystal-linux/moonstone">moonstone</a>
 </ul>
 
 <h2> NICE TO HAVE</h2>
