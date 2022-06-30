@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://github.com/crystal-linux/todo/">
-<<<<<<< Updated upstream
-    <img src="hhttps://getcryst.al/site/assets/other/logo.png" alt="Logo" width="150" height="150">
-=======
     <img src="https://getcryst.al/site/assets/other/icon-todo.png" alt="Logo" width="150" height="150">
->>>>>>> Stashed changes
   </a>
 </p>
 
