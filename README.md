@@ -42,5 +42,6 @@ The all new official Crystal Linux to-do list for contributors.
 <h2> NICE TO HAVE</h2>
 <ul>
 <li> A recovery partition<br>
+<li> Package and preinstall <a href="https://github.com/hykilpikonna/hyfetch">hyfetch</a>
 <li> Unit tests for all Rust tools
 </ul>
