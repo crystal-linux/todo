@@ -30,7 +30,7 @@ The all new official Crystal Linux to-do list for contributors.
 <h2> IN PROGRESS</h2>
 <ul>
 <li> Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
-<li> <b> FORCE JASIO TO MAKE MOCKUPS DO NOT LISTEN TO HER EXCUSES</b>
+<li> <b> FORCE JASIO TO MAKE MOCKUPS DO NOT LISTEN TO HER EXCUSES x2</b>
 </ul>
 <h2> GENERAL</h2>
 <ul>
