@@ -35,6 +35,7 @@ The all new official Crystal Linux to-do list for contributors.
 </ul>
 <h2> GENERAL</h2>
 <ul>
+<li> Use PipeWire by default<br>
 <li> Update github <a href="https://github.com/crystal-linux/iso">ISO</a> action to generate checksums<br>
 <li> Implement <a href="https://github.com/marketplace/actions/rust-clippy-check">rust-clippy-check</a> action for rust projects<br>
 <li> Fix up clapv3 branch of <a href="https://github.com/crystal-linux/malachite">malachite</a><br>
@@ -47,6 +48,8 @@ The all new official Crystal Linux to-do list for contributors.
 
 <h2> NICE TO HAVE</h2>
 <ul>
+<li> Set default parallel downloads on pacman to 3, to spread out downloads and possibly improve package download times<br>
+<li> A default shell chooser during installation. (Fish by default would be appreciated -Oro) <br>
 <li> A recovery partition<br>
 <li> Package and preinstall <a href="https://github.com/hykilpikonna/hyfetch">hyfetch</a><br>
 <li> Unit tests for all Rust tools<br>
