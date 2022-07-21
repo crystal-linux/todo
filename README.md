@@ -36,7 +36,6 @@ The all new official Crystal Linux to-do list for contributors.
 <h2> GENERAL</h2>
 <ul>
 <li> Use PipeWire by default<br>
-<li> Update github <a href="https://github.com/crystal-linux/iso">ISO</a> action to generate checksums<br>
 <li> Implement <a href="https://github.com/marketplace/actions/rust-clippy-check">rust-clippy-check</a> action for rust projects<br>
 <li> Fix up clapv3 branch of <a href="https://github.com/crystal-linux/malachite">malachite</a><br>
 <li> Begin drafting the first boot app (<a href="https://github.com/crystal-linux/moonstone">moonstone</a>)<br>
