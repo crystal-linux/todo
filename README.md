@@ -48,7 +48,7 @@ The all new official Crystal Linux to-do list for contributors.
 <h2> NICE TO HAVE</h2>
 <ul>
 <li> Set default parallel downloads on pacman to 3, to spread out downloads and possibly improve package download times<br>
-<li> A default shell chooser during installation. (Fish by default would be appreciated -Oro) <br>
+<li> A default shell chooser during installation. (Implemented in Jade, would ideally just need to be added to Jade-GUI) (Fish by default would be appreciated -Oro) <br>
 <li> A recovery partition<br>
 <li> Package and preinstall <a href="https://github.com/hykilpikonna/hyfetch">hyfetch</a><br>
 <li> Unit tests for all Rust tools<br>
