@@ -53,5 +53,4 @@ The all new official Crystal Linux to-do list for contributors.
 <li> Package and preinstall <a href="https://github.com/hykilpikonna/hyfetch">hyfetch</a><br>
 <li> Unit tests for all Rust tools<br>
 <li> Preinstall and enable `cups` service daemon<br>
-<li> Once the Jade GUI rewrite to libadwaita is finished, rename the github repo to 'jade-gui' instead of 'jade_gui' </li>
 </ul>
