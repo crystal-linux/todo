@@ -30,12 +30,12 @@ The all new official Crystal Linux to-do list for contributors.
 
 <h2> IN PROGRESS</h2>
 
-- [ ] Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
+- [x] Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
 - [ ] <b> FORCE JASIO TO MAKE MOCKUPS DO NOT LISTEN TO HER EXCUSES x2</b>
 
 <h2> GENERAL</h2>
 
-- [ ] Use PipeWire by default<br>
+- [x] Use PipeWire by default<br>
 - [ ] Implement <a href="https://github.com/marketplace/actions/rust-clippy-check">rust-clippy-check</a> action for rust projects<br>
 - [ ] Fix up clapv3 branch of <a href="https://github.com/crystal-linux/malachite">malachite</a><br>
 - [ ] Begin drafting the first boot app (<a href="https://github.com/crystal-linux/moonstone">moonstone</a>)<br>
