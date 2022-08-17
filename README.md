@@ -25,33 +25,33 @@ The all new official Crystal Linux to-do list for contributors.
 <h2> Next meeting date and time: whenever we feel like it 
 
 <h2> URGENT</h2>
-<ul>
-<li> Fix the screen locking on the iso
-</ul>
+
+- [ ] Fix the screen locking on the iso
+
 <h2> IN PROGRESS</h2>
-<ul>
-<li> Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
-<li> <b> FORCE JASIO TO MAKE MOCKUPS DO NOT LISTEN TO HER EXCUSES x2</b>
-</ul>
+
+- [ ] Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
+- [ ] <b> FORCE JASIO TO MAKE MOCKUPS DO NOT LISTEN TO HER EXCUSES x2</b>
+
 <h2> GENERAL</h2>
-<ul>
-<li> Use PipeWire by default<br>
-<li> Implement <a href="https://github.com/marketplace/actions/rust-clippy-check">rust-clippy-check</a> action for rust projects<br>
-<li> Fix up clapv3 branch of <a href="https://github.com/crystal-linux/malachite">malachite</a><br>
-<li> Begin drafting the first boot app (<a href="https://github.com/crystal-linux/moonstone">moonstone</a>)<br>
-<li> Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop environment based on Budgie)<br>
-<li> Add <code>made with ❤️ by crystal</code> to apps<br>
-<li> Make a TUI for <a href="https://github.com/crystal-linux/jade">jade</a><br>
-<li> Copy Michal's GNOME setup (It pretty 😀)<br>
-</ul>
+
+- [ ] Use PipeWire by default<br>
+- [ ] Implement <a href="https://github.com/marketplace/actions/rust-clippy-check">rust-clippy-check</a> action for rust projects<br>
+- [ ] Fix up clapv3 branch of <a href="https://github.com/crystal-linux/malachite">malachite</a><br>
+- [ ] Begin drafting the first boot app (<a href="https://github.com/crystal-linux/moonstone">moonstone</a>)<br>
+- [ ] Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop environment based on Budgie)<br>
+- [ ] Add <code>made with ❤️ by crystal</code> to apps<br>
+- [ ] Make a TUI for <a href="https://github.com/crystal-linux/jade">jade</a><br>
+- [ ] Copy Michal's GNOME setup (It pretty 😀)<br>
+
 
 <h2> NICE TO HAVE</h2>
-<ul>
-<li> Set default parallel downloads on pacman to 3, to spread out downloads and possibly improve package download times<br>
-<li> A default shell chooser during installation. (Implemented in Jade, would ideally just need to be added to Jade-GUI) (Fish by default would be appreciated -Oro) <br>
-<li> A recovery partition<br>
-<li> Package and preinstall <a href="https://github.com/hykilpikonna/hyfetch">hyfetch</a><br>
-<li> Unit tests for all Rust tools<br>
-<li> Preinstall and enable `cups` service daemon<br>
-<li> <s> Once the Jade GUI rewrite to libadwaita is finished, rename the github repo to 'jade-gui' instead of 'jade_gui'</s> </li>
-</ul>
+
+- [ ] Set default parallel downloads on pacman to 3, to spread out downloads and possibly improve package download times<br>
+- [ ] A default shell chooser during installation. (Implemented in Jade, would ideally just need to be added to Jade-GUI) (Fish by default would be appreciated -Oro) <br>
+- [ ] A recovery partition<br>
+- [ ] Package and preinstall <a href="https://github.com/hykilpikonna/hyfetch">hyfetch</a><br>
+- [ ] Unit tests for all Rust tools<br>
+- [ ] Preinstall and enable `cups` service daemon<br>
+- [x] Once the Jade GUI rewrite to libadwaita is finished, rename the github repo to 'jade-gui' instead of 'jade_gui'
+
