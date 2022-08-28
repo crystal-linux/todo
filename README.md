@@ -32,6 +32,7 @@ The all new official Crystal Linux to-do list for contributors.
 
 - [x] Rework <a href="https://github.com/crystal-linux/jade_gui">Jade GUI</a> to use libadwaita<br>
 - [ ] <b> FORCE JASIO TO MAKE MOCKUPS DO NOT LISTEN TO HER EXCUSES x2</b>
+- [ ] Package Onyx<br>
 
 <h2> GENERAL</h2>
 
@@ -39,18 +40,21 @@ The all new official Crystal Linux to-do list for contributors.
 - [ ] Implement <a href="https://github.com/marketplace/actions/rust-clippy-check">rust-clippy-check</a> action for rust projects<br>
 - [ ] Fix up clapv3 branch of <a href="https://github.com/crystal-linux/malachite">malachite</a><br>
 - [ ] Begin drafting the first boot app (<a href="https://github.com/crystal-linux/moonstone">moonstone</a>)<br>
-- [ ] Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop environment based on Budgie)<br>
-- [ ] Add <code>made with ❤️ by crystal</code> to apps<br>
+- [x] Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop environment based on Budgie) (it's gone btw, L)<br>
 - [ ] Make a TUI for <a href="https://github.com/crystal-linux/jade">jade</a><br>
-- [ ] Copy Michal's GNOME setup (It pretty 😀)<br>
 
+<h2> MOONSTONE</h2>
+
+- [ ] Rework the mockup <br>
+- [ ] Create actual software selection pages<br>
+- [ ] Create a page with useful extensions people would want to install <br>
 
 <h2> NICE TO HAVE</h2>
 
 - [ ] Set default parallel downloads on pacman to 3, to spread out downloads and possibly improve package download times<br>
 - [ ] A default shell chooser during installation. (Implemented in Jade, would ideally just need to be added to Jade-GUI) (Fish by default would be appreciated -Oro) <br>
 - [ ] A recovery partition<br>
-- [ ] Package and preinstall <a href="https://github.com/hykilpikonna/hyfetch">hyfetch</a><br>
+- [ ] Package <a href="https://github.com/hykilpikonna/hyfetch">hyfetch</a><br>
 - [ ] Unit tests for all Rust tools<br>
 - [ ] Preinstall and enable `cups` service daemon<br>
 - [x] Once the Jade GUI rewrite to libadwaita is finished, rename the github repo to 'jade-gui' instead of 'jade_gui'
