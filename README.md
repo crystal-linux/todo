@@ -41,7 +41,7 @@ The all new official Crystal Linux to-do list for contributors.
 - [ ] Fix up clapv3 branch of <a href="https://github.com/crystal-linux/malachite">malachite</a><br>
 - [ ] Begin drafting the first boot app (<a href="https://github.com/crystal-linux/moonstone">moonstone</a>)<br>
 - [x] Update/make decisions about <a href="https://github.com/crystal-linux/onyx">Onyx</a> (our desktop environment based on Budgie) (it's gone btw, L)<br>
-- [ ] Make a TUI for <a href="https://github.com/crystal-linux/jade">jade</a><br>
+- [x] Make a TUI for <a href="https://github.com/crystal-linux/jade">jade</a><br>
 
 <h2> MOONSTONE</h2>
 
@@ -51,7 +51,7 @@ The all new official Crystal Linux to-do list for contributors.
 
 <h2> NICE TO HAVE</h2>
 
-- [ ] Set default parallel downloads on pacman to 3, to spread out downloads and possibly improve package download times<br>
+- [x] Set default parallel downloads on pacman to 3, to spread out downloads and possibly improve package download times<br>
 - [ ] A default shell chooser during installation. (Implemented in Jade, would ideally just need to be added to Jade-GUI) (Fish by default would be appreciated -Oro) <br>
 - [ ] A recovery partition<br>
 - [ ] Package <a href="https://github.com/hykilpikonna/hyfetch">hyfetch</a><br>
